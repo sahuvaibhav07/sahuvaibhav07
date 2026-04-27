@@ -132,7 +132,6 @@ const vaibhav = {
 📌  System Design Fundamentals
 📌  TypeScript, JavaScript & Next.js
 📌  Advanced DSA (Graphs, DP, Segment Trees)
-📌  Core CS Subjects (OS, DBMS, CN)
 📌  REST API Design & Backend Architecture
 ```
 
@@ -145,7 +144,6 @@ const vaibhav = {
 | 🔢 Data Structures & Algorithms (C++) | 🟡 In Progress |
 | 🌐 Full-Stack MERN Projects | 🟢 Active |
 | 🧩 System Design Basics | 🟡 In Progress |
-| 💾 Core CS (OS, DBMS, CN) | 🟡 In Progress |
 | 🧠 LeetCode / Problem Solving | 🟢 Daily Practice |
 | 📄 Resume & LinkedIn Optimization | ✅ Done |
 
