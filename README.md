@@ -2,13 +2,13 @@
 
 # Hi 👋, I'm Vaibhav Sahu
 
-### MERN Stack Developer | C++ | DSA | Problem Solver
+### MERN & PERN Stack Developer | Full-Stack Engineer | DSA | Problem Solver
 
 **Aspiring Software Development Engineer**
 
 *"Building scalable systems, one commit at a time."*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;C%2B%2B+%7C+DSA+%7C+Problem+Solver;Aspiring+SDE;Code.+Build.+Ship.+Repeat.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;PERN+Stack+Specialist;C%2B%2B+%7C+DSA+Expert;Building+Scalable+Web+Apps;Code.+Build.+Ship.+Repeat.)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sahuvaibhav07&label=Profile+Views&color=0e75b6&style=flat-square)
 
@@ -18,17 +18,26 @@
 
 ## 👨‍💻 About Me
 
-I am a **MERN Stack Developer** and **Software Engineering Student** focused on full-stack web development, placement preparation, and DSA in C++.
+I am a **Full-Stack MERN & PERN Developer** and **Computer Science Enthusiast** focused on building scalable web applications, mastering Data Structures & Algorithms, and preparing for placements in top tech companies.
 
-I enjoy building real-world projects, solving problems, and improving my development skills every day.
+I specialize in building production-grade applications using modern tech stacks with a strong emphasis on clean code, performance, and user experience. I'm passionate about solving complex problems, optimizing systems, and continuously improving my skills through real-world projects.
+
+**Key Strengths:**
+- 🚀 Full-Stack Development (MERN & PERN Stacks)
+- 🧠 Strong Foundation in Data Structures & Algorithms
+- 💡 Problem-Solving & Debugging Skills
+- 📊 Database Design & Optimization
+- 🎨 UI/UX & Responsive Design
+- 🔧 System Architecture & Scalability
 
 ```javascript
 const vaibhav = {
-  role     : "MERN Stack Developer | SDE Aspirant",
-  learning : ["System Design", "Advanced DSA", "TypeScript", "JavaScript", "Next.js"],
-  goal     : "Crack a strong Software Development role",
-  approach : "Code. Build. Ship. Repeat.",
-  email    : "sahuvaibhav06@gmail.com"
+  role        : "Full-Stack MERN & PERN Developer | SDE Aspirant",
+  expertise   : ["MERN Stack", "PERN Stack", "Full-Stack Development", "System Design"],
+  learning    : ["Advanced System Design", "TypeScript", "Next.js", "PostgreSQL", "Docker"],
+  goal        : "Secure a strong Software Engineering role at a top tech company",
+  approach    : "Build. Learn. Optimize. Repeat.",
+  email       : "sahuvaibhav06@gmail.com"
 };
 ```
 
@@ -47,14 +56,36 @@ const vaibhav = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### ⚙️ Languages & Tools
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=api&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-8A2BE2?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white)
+
+---
+
+## 🏗️ Full-Stack Development Expertise
+
+### MERN Stack
+> **MongoDB • Express.js • React.js • Node.js**
+- ✅ Building scalable full-stack web applications
+- ✅ RESTful API design & implementation
+- ✅ Real-time data handling with MongoDB
+- ✅ Component-driven UI with React
+
+### PERN Stack  
+> **PostgreSQL • Express.js • React.js • Node.js**
+- ✅ Relational database design & optimization
+- ✅ Enterprise-level application development
+- ✅ Complex queries & data relationships
+- ✅ Production-ready deployments
 
 ---
 
@@ -63,44 +94,52 @@ const vaibhav = {
 ### 🎓 Exam Notes AI
 > AI-powered notes platform built for students
 
-- ✅ Smart AI note generation & summarization
-- ✅ Student-focused responsive design
-- ✅ Full-stack MERN architecture
+- ✅ Smart AI note generation & summarization using LLM APIs
+- ✅ Student-focused responsive design with smooth UX
+- ✅ Full-stack MERN architecture with secure authentication
+- ✅ Real-time collaboration features
+- ✅ Deployed & live with active users
 
-**Tech Stack:** `React` `Node.js` `MongoDB` `AI API`
+**Tech Stack:** `React` `Node.js` `MongoDB` `Express.js` `AI API` `JWT Authentication`
 
 ---
 
 ### 🎨 Imagify – AI Image Generator
-> Generate stunning images using AI models
+> Generate stunning images using AI models with advanced filtering
 
-- ✅ AI-based image generation from text prompts
-- ✅ Modern responsive UI
-- ✅ REST API integration
+- ✅ AI-based image generation from text prompts using DALL-E/Stable Diffusion APIs
+- ✅ Modern responsive UI with real-time preview
+- ✅ Payment integration (Razorpay/Stripe)
+- ✅ User credit system & subscription management
+- ✅ REST API with proper error handling
 
-**Tech Stack:** `React` `Express.js` `Tailwind CSS` `AI API`
+**Tech Stack:** `React` `Express.js` `Node.js` `MongoDB` `Tailwind CSS` `Payment Gateway`
 
 ---
 
-### 💻 C++ DSA Placement Prep
-> Daily structured DSA practice repository for placements
+### 💻 C++ DSA Placement Prep Repository
+> Daily structured DSA practice with 100+ solutions
 
-- ✅ Topic-wise organized C++ solutions
-- ✅ Arrays, Trees, Graphs, DP, Recursion and more
-- ✅ Consistent daily commits
+- ✅ Topic-wise organized C++ solutions (Arrays, Strings, Trees, Graphs, DP, Recursion)
+- ✅ Optimized solutions with multiple approaches
+- ✅ Time & space complexity analysis for each problem
+- ✅ Interview patterns & problem-solving techniques
+- ✅ Consistent daily commits (active maintenance)
 
-**Tech Stack:** `C++` `DSA`
+**Tech Stack:** `C++` `DSA` `GitHub` `LeetCode Patterns`
 
 ---
 
 ### 🌐 Portfolio Website
-> Modern full-stack developer portfolio
+> Modern full-stack developer portfolio with animations
 
-- ✅ Fully responsive design
-- ✅ Project showcase + contact integration
-- ✅ Performance-focused development
+- ✅ Fully responsive design (Mobile, Tablet, Desktop)
+- ✅ Interactive project showcase with live links
+- ✅ Contact form with email integration
+- ✅ Performance optimized (Lighthouse 90+)
+- ✅ Dark/Light theme toggle
 
-**Tech Stack:** `React` `Tailwind CSS` `Node.js`
+**Tech Stack:** `React` `Tailwind CSS` `Next.js` `Node.js` `Nodemailer`
 
 ---
 
@@ -126,32 +165,84 @@ const vaibhav = {
 
 ---
 
+## 📈 Key Metrics & Achievements
+
+| Metric | Achievement |
+|--------|------------|
+| 📚 Projects Built | 4+ Full-Stack Applications |
+| 💻 LeetCode Problems | 100+ Problems Solved |
+| 🔥 Coding Streak | Consistent Daily Practice |
+| 🏆 Stack Expertise | MERN & PERN Stack Specialist |
+| 📊 Code Quality | Clean Architecture & Best Practices |
+| 🚀 Production Ready | Multiple Deployed Applications |
+
+---
+
 ## 🧠 Currently Learning
 
 ```
-📌  System Design Fundamentals
-📌  TypeScript, JavaScript & Next.js
+📌  Advanced System Design & Scalability
+📌  TypeScript & Type Safety Best Practices
+📌  Next.js Framework & Server Components
+📌  PostgreSQL Optimization & Complex Queries
+📌  Microservices & API Security
+📌  Docker & Container Orchestration
 📌  Advanced DSA (Graphs, DP, Segment Trees)
-📌  REST API Design & Backend Architecture
+📌  REST API Design Patterns & GraphQL
 ```
 
 ---
 
-## 🎯 Placement Journey
+## 🎯 Placement Journey & Development Roadmap
 
-| Area | Status |
-|---|---|
-| 🔢 Data Structures & Algorithms (C++) | 🟡 In Progress |
-| 🌐 Full-Stack MERN Projects | 🟢 Active |
-| 🧩 System Design Basics | 🟡 In Progress |
-| 🧠 LeetCode / Problem Solving | 🟢 Daily Practice |
-| 📄 Resume & LinkedIn Optimization | ✅ Done |
+| Category | Current Status | Target |
+|----------|--------|--------|
+| 🔢 Data Structures & Algorithms (C++) | 🟡 In Progress | 300+ LeetCode Problems |
+| 🌐 Full-Stack MERN Development | 🟢 Advanced | Production-Grade Projects |
+| 🗄️ PostgreSQL & PERN Stack | 🟢 Active | Database Optimization Expert |
+| 🧩 System Design | 🟡 Intermediate | Advanced Architect Level |
+| 🚀 Deployment & DevOps | 🟡 Learning | Docker & CI/CD Pipeline |
+| 📄 Portfolio & Visibility | 🟢 Strong | Personal Brand as Developer |
 
-> 🎯 **Target:** Top Product-Based Companies and strong Software Development roles.
+> 🎯 **Target:** Top Product-Based Companies (Amazon, Microsoft, Google, Flipkart, etc.) & Strong Full-Stack SDE Roles
 
 ---
 
-## 📬 Connect With Me
+## � Core Competencies
+
+### Backend Development
+- ✅ RESTful API Design & Implementation
+- ✅ Database Design (Both NoSQL & Relational)
+- ✅ Authentication & Authorization (JWT, OAuth)
+- ✅ Error Handling & Logging
+- ✅ Performance Optimization & Caching
+
+### Frontend Development  
+- ✅ Component-Based Architecture
+- ✅ State Management (Context API, Redux)
+- ✅ Responsive Design & Mobile-First
+- ✅ Performance Optimization (Code Splitting, Lazy Loading)
+- ✅ Modern CSS (Tailwind, SASS)
+
+### Software Engineering
+- ✅ Data Structures & Algorithms
+- ✅ Clean Code Principles
+- ✅ Git & Version Control
+- ✅ Debugging & Problem Solving
+- ✅ Code Reviews & Collaboration
+
+---
+
+## 📚 Resources & Certifications
+
+- 🎓 **Placement Preparation** - Active LeetCode & HackerRank Problem Solver
+- 📖 **System Design** - Fundamentals of Scalability & Architecture
+- 🏆 **Problem Solving** - 100+ DSA Problems Solved in C++
+- 🔗 **Open Source** - Contributing to community projects
+
+---
+
+## �📬 Connect With Me
 
 <div align="center">
 
