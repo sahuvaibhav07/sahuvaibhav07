@@ -1,277 +1,643 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Vaibhav%20Sahu&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20SDE%20Aspirant%20%7C%20Problem%20Solver&descAlignY=58&descColor=8892b0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:5B21B6,100:06B6D4&text=Vaibhav%20Sahu&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=Generative%20AI%20Engineer%20|%20AI%20Agent%20Developer%20|%20LLM%20Applications&descAlignY=60&descColor=E5E7EB" />
+
+# 👋 Hello, I'm Vaibhav Sahu
+
+### **Generative AI Engineer | AI Agent Developer | LLM Application Builder**
+
+Building production-ready AI applications powered by **LLMs**, **RAG**, **Voice AI**, and **Full Stack MERN** technologies.
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=🧠+Building+Production-Ready+Generative+AI+Applications;🤖+LLMs+•+AI+Agents+•+RAG+•+Voice+AI;🚀+FastAPI+•+React+•+Groq+•+Firebase;💻+MERN+Stack+Developer;🎯+Open+to+Generative+AI+Engineer+Roles" />
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/sahuvaibhav07">
+<img src="https://img.shields.io/github/followers/sahuvaibhav07?label=Followers&style=for-the-badge&color=181717"/>
+</a>
+
+<a href="https://github.com/sahuvaibhav07">
+<img src="https://komarev.com/ghpvc/?username=sahuvaibhav07&style=for-the-badge&color=blueviolet"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vaibhav-sahu-5ab88231b">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:sahuvaibhav06@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
 
 </div>
 
 ---
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=🚀+Full-Stack+MERN+%26+PERN+Developer;🧠+C%2B%2B+DSA+%7C+150%2B+Problems+Solved;🎓+B.E.+AI+%40+G.H.+Raisoni+College;🔧+Building+Production-Grade+Web+Apps;💡+Code.+Build.+Ship.+Repeat.)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vaibhav--sahu7-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-sahu7/)
-[![GitHub](https://img.shields.io/badge/GitHub-sahuvaibhav07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahuvaibhav07)
-[![Email](https://img.shields.io/badge/Email-sahuvaibhav06%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahuvaibhav06@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=sahuvaibhav07&label=Profile+Views&color=00d4ff&style=for-the-badge)](https://github.com/sahuvaibhav07)
-
-</div>
-
----
-
-## 🧑‍💻 About Me
+# 🧠 About Me
 
 ```javascript
 const vaibhav = {
-  name        : "Vaibhav Sahu",
-  role        : "Full-Stack MERN & PERN Developer | SDE Aspirant",
-  education   : "B.E. Artificial Intelligence @ G.H. Raisoni College of Engineering & Management",
-  batch       : "Expected 2027 | CGPA: 6.0",
-  location    : "Maharashtra, India 🇮🇳",
-  expertise   : ["MERN Stack", "PERN Stack", "REST APIs", "DSA in C++"],
-  currentFocus: ["System Design", "TypeScript", "Next.js", "PostgreSQL", "Docker"],
-  goal        : "Land a strong SDE role at a top product-based company",
-  approach    : "Build. Learn. Optimize. Repeat.",
-  contact     : "sahuvaibhav06@gmail.com"
-};
-```
 
-> 🎯 **Full-Stack Developer** with hands-on experience building **AI-integrated web applications** using MERN & PERN stacks. Proficient in **C++ with strong DSA fundamentals**. Skilled at architecting complete features — from database schema to responsive UI — with clean, maintainable code. Targeting **SDE roles at product-based companies**.
+    name: "Vaibhav Sahu",
 
----
+    role: "Generative AI Engineer",
 
-## 🛠️ Tech Stack
+    education:
+        "B.E. Artificial Intelligence | G.H. Raisoni College of Engineering & Management",
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+    location:
+        "Nagpur, Maharashtra, India",
 
-### ⚙️ Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+    primarySkills: [
 
-### 🔧 Languages & Tools
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6F00?style=for-the-badge&logo=api&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+        "Generative AI",
 
----
+        "Large Language Models",
 
-## 🚀 Featured Projects
+        "Retrieval-Augmented Generation",
 
-### 🎓 Exam Notes AI
-> **AI-powered study notes platform built for students**
+        "AI Agents",
 
-An intelligent notes platform that auto-generates and summarizes study content using LLM/NLP APIs, backed by a secure full-stack MERN architecture.
+        "Voice AI",
 
-| Feature | Details |
-|---------|---------|
-| 🤖 AI Integration | Smart note generation & summarization via third-party NLP APIs |
-| 🔐 Authentication | JWT-based secure auth with MongoDB schema design |
-| 🖥️ Frontend | Responsive React SPA with smooth UX |
-| 📡 Backend | Express.js service layer with clean API design |
-| 📦 Architecture | Complete full-stack ownership — DB to UI |
+        "Prompt Engineering"
 
-**Tech Stack:**
-`React` `Node.js` `Express.js` `MongoDB` `NLP/AI API` `JWT`
+    ],
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/sahuvaibhav07)
+    secondarySkills: [
 
----
+        "MERN Stack",
 
-### 🎨 Imagify — AI Image Generator
-> **Text-to-image generation platform with credit-based subscription**
+        "REST APIs",
 
-A production-ready AI image generator with Razorpay/Stripe payment integration, credit management, and real-time preview.
+        "MongoDB",
 
-| Feature | Details |
-|---------|---------|
-| 🎨 AI Generation | Text-to-image via DALL-E / Stable Diffusion APIs |
-| 💳 Payments | Integrated Razorpay/Stripe with credit & subscription system |
-| 🚦 Rate Limiting | Secure API key proxying + prompt caching |
-| 🖼️ Gallery UI | Lazy loading, download support, real-time preview |
-| 🗄️ Backend | MongoDB-backed user & transaction management |
+        "Firebase",
 
-**Tech Stack:**
-`React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Payment Gateway` `DALL-E API`
+        "JWT Authentication"
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/sahuvaibhav07)
+    ],
 
----
+    currentlyBuilding:
 
-### 💻 C++ DSA Repository
-> **Structured placement prep — 150+ optimized solutions**
+        "AI Healthcare Voice Assistant",
 
-A topic-wise organized DSA repository with annotated C++ solutions, time & space complexity analysis, and interview patterns.
+    learning:
 
-| Category | Coverage |
-|----------|---------|
-| 📁 Topics | Arrays, Strings, Trees, Graphs, DP, Recursion, Greedy |
-| ✅ Solutions | 150+ problems with multiple approaches |
-| 📊 Analysis | Time & Space complexity for every solution |
-| 🎯 Patterns | Interview-focused LeetCode-style problem sets |
+        "Advanced AI Agent Architectures & Production LLM Systems",
 
-**Tech Stack:** `C++` `DSA` `LeetCode Patterns` `GitHub`
+    goal:
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/sahuvaibhav07)
+        "Build scalable AI products that solve real-world problems."
 
----
-
-### 🌐 Developer Portfolio
-> **Modern full-stack portfolio with animations & performance focus**
-
-Fully responsive developer portfolio with interactive project showcase, custom animations, and 90+ Lighthouse score.
-
-| Feature | Details |
-|---------|---------|
-| ⚡ Performance | Lighthouse 90+ via code splitting & Vercel CDN |
-| 🎬 Animations | Custom Framer Motion animations & micro-interactions |
-| 📱 Responsive | Mobile-first, Tablet & Desktop optimized |
-| 📧 Contact | Email integration via Nodemailer |
-| 🌙 Theming | Dark/Light mode toggle |
-
-**Tech Stack:** `React` `Next.js` `Tailwind CSS` `Framer Motion` `Vercel`
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/sahuvaibhav07)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahuvaibhav07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahuvaibhav07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sahuvaibhav07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahuvaibhav07&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🎯 Placement Roadmap
-
-| Skill Area | Status | Target |
-|------------|--------|--------|
-| 🔢 DSA (C++) | 🟡 Active — 150+ solved | 300+ LeetCode Problems |
-| 🌐 MERN Stack | 🟢 Advanced | Production-Grade Projects |
-| 🗄️ PERN Stack | 🟢 Active | Database Optimization |
-| 🧩 System Design | 🟡 Intermediate | Advanced Architecture |
-| 🚀 DevOps / Docker | 🟡 Learning | CI/CD Pipelines |
-| 🧑‍💼 Portfolio | 🟢 Strong | Personal Brand Growth |
-
-> 🎯 **Target Companies:** Amazon · Microsoft · Google · Flipkart · Swiggy · Zomato & Strong Full-Stack SDE Roles
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Year | Score |
-|--------|------------|------|-------|
-| 🎓 B.E. — Artificial Intelligence | G.H. Raisoni College of Engineering & Management | Expected 2027 | CGPA: 6.0 |
-| 📘 Higher Secondary (12th) | Vidharba Defence Career Academy | 2023 | 52% |
-| 📗 Secondary School (10th) | Shreyas Convent | 2021 | 63% |
-
----
-
-## 🧠 Currently Learning
-
-```
-📌  Advanced System Design & Scalability Patterns
-📌  TypeScript & Type Safety Best Practices  
-📌  Next.js App Router & Server Components
-📌  PostgreSQL Advanced Optimization
-📌  Docker & Container Orchestration
-📌  Microservices Architecture & API Security
-📌  Advanced DSA — Graphs, DP, Segment Trees
-📌  GraphQL & REST API Design Patterns
+}
 ```
 
 ---
 
-## 💪 Core Competencies
+# 🚀 What I Do
+
+🧠 Build production-ready **Generative AI Applications**
+
+🤖 Design and develop **AI Agents**
+
+🎙️ Develop **Voice AI Systems**
+
+📚 Build **Retrieval-Augmented Generation (RAG)** pipelines
+
+⚡ Integrate **Large Language Models (LLMs)** into real-world applications
+
+🌐 Develop full-stack AI applications using the **MERN Stack**
+
+---
+
+# 💼 Specializations
 
 <table>
+
 <tr>
-<td valign="top" width="33%">
 
-### Backend
-- ✅ RESTful API Design
-- ✅ MongoDB & PostgreSQL
-- ✅ JWT & OAuth Auth
-- ✅ Error Handling & Logging
-- ✅ Caching & Optimization
+<td width="33%" align="center">
 
-</td>
-<td valign="top" width="33%">
+## 🤖 AI Engineering
 
-### Frontend
-- ✅ Component Architecture
-- ✅ State Management (Redux)
-- ✅ Responsive / Mobile-First
-- ✅ Code Splitting & Lazy Load
-- ✅ Tailwind & Modern CSS
+LLM Applications
+
+AI Agents
+
+Prompt Engineering
+
+Workflow Automation
 
 </td>
-<td valign="top" width="33%">
 
-### Engineering
-- ✅ Data Structures & Algorithms
-- ✅ Clean Code Principles
-- ✅ Git & Version Control
-- ✅ Debugging & Problem Solving
-- ✅ Full Product Ownership
+<td width="33%" align="center">
+
+## 🧠 Generative AI
+
+RAG Systems
+
+Semantic Search
+
+Embeddings
+
+Context Engineering
 
 </td>
+
+<td width="33%" align="center">
+
+## 💻 Full Stack
+
+React
+
+Node.js
+
+Express.js
+
+MongoDB
+
+</td>
+
 </tr>
+
 </table>
 
 ---
 
-## 📬 Connect With Me
+# ⚙️ Tech Stack
+
+## 🧠 Generative AI
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,fastapi"/>
+
+</p>
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Prompt Engineering
+- Voice AI
+- Groq API
+- Vector Search
+- Context Management
+
+---
+
+## 🌐 Full Stack Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,tailwind,javascript"/>
+
+</p>
+
+---
+
+## 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- 🚀 Production AI Systems
+- 🤖 AI Agents
+- 🧠 Generative AI
+- 📚 Retrieval-Augmented Generation
+- 🎙️ Voice AI
+- ⚡ Full Stack AI Applications
+
+# 🚀 Featured Projects
+
+## 🩺 AI Healthcare Voice Assistant (Flagship Project)
+
+> **A production-grade Voice AI Healthcare Assistant powered by Generative AI, RAG, and Large Language Models.**
+
+An intelligent healthcare assistant that enables natural voice and text conversations, understands user symptoms, retrieves relevant healthcare knowledge using Retrieval-Augmented Generation (RAG), and provides AI-powered consultation guidance through a secure full-stack architecture.
+
+### ✨ Key Features
+
+| Feature | Description |
+|----------|-------------|
+| 🎙 Voice AI | Real-time voice conversation with Speech-to-Text & Text-to-Speech |
+| 🤖 AI Consultation | Intelligent healthcare conversations powered by LLMs |
+| 🧠 RAG Pipeline | Retrieval-Augmented Generation for context-aware responses |
+| 💬 Conversation Memory | Multi-turn contextual conversations |
+| 📊 Analytics Dashboard | AI-generated consultation insights |
+| 📄 Medical Reports | Automatic consultation report generation |
+| 🔐 Secure Authentication | Firebase Authentication & JWT |
+| ⚡ Real-Time Communication | WebSocket-based streaming responses |
+
+---
+
+### 🏗 AI Architecture
+
+```text
+                    User
+
+              Voice / Text Input
+
+                      │
+
+                      ▼
+
+             React Frontend (Vite)
+
+                      │
+
+          REST API + WebSocket
+
+                      │
+
+                      ▼
+
+             FastAPI Backend
+
+                      │
+
+      ┌────────────┬─────────────┐
+      │            │             │
+
+      ▼            ▼             ▼
+
+ Firebase      Groq LLM     PostgreSQL
+
+ Authentication              Database
+
+                      │
+
+                      ▼
+
+             RAG Retrieval Engine
+
+                      │
+
+                      ▼
+
+             AI Response Pipeline
+
+                      │
+
+                      ▼
+
+           Voice + Text Response
+```
+
+---
+
+### ⚙ Tech Stack
+
+`React`
+
+`FastAPI`
+
+`Groq`
+
+`RAG`
+
+`Firebase`
+
+`PostgreSQL`
+
+`WebSocket`
+
+`JWT`
+
+`Python`
+
+`JavaScript`
+
+---
+
+## 🎨 Imagify — AI Image Generation Platform
+
+> **Generate high-quality AI images from natural language prompts.**
+
+### Highlights
+
+- AI-powered image generation
+- Secure Authentication
+- Credit-based generation system
+- Payment integration
+- Image history
+- Download & Gallery
+- Responsive UI
+
+**Tech Stack**
+
+`React`
+
+`Node.js`
+
+`Express`
+
+`MongoDB`
+
+`Tailwind CSS`
+
+`AI APIs`
+
+---
+
+## 📚 Exam Notes AI
+
+> **AI-powered study assistant for generating smart notes.**
+
+### Features
+
+- AI Note Generation
+- Smart Summarization
+- Clean Dashboard
+- Secure Login
+- Fast Search
+- Responsive Design
+
+**Tech Stack**
+
+`React`
+
+`Node.js`
+
+`MongoDB`
+
+`Express`
+
+`JWT`
+
+---
+
+# 🧠 AI Engineering Skills
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🤖 Artificial Intelligence
+
+- Large Language Models
+- Prompt Engineering
+- AI Agents
+- Retrieval-Augmented Generation
+- Context Engineering
+- Voice AI Systems
+- Semantic Search
+
+</td>
+
+<td width="50%">
+
+## 💻 Software Engineering
+
+- MERN Stack
+- REST APIs
+- Authentication
+- Database Design
+- Backend Development
+- API Integration
+- Clean Architecture
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-sahu7/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahuvaibhav07)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahuvaibhav06@gmail.com)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sahuvaibhav07&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahuvaibhav07&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahuvaibhav07&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahuvaibhav07&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
+# 🏆 Core Expertise
+
+### 🧠 Generative AI
+
+- Production AI Applications
+- LLM Integration
+- Prompt Engineering
+- AI Agents
+- RAG Pipelines
+- Voice AI
+
+### ⚙ Backend
+
+- FastAPI
+- Node.js
+- Express.js
+- Authentication
+- WebSockets
+- API Development
+
+### 🌐 Frontend
+
+- React.js
+- JavaScript
+- Tailwind CSS
+- Responsive UI
+- State Management
+
+### 🗄 Database
+
+- MongoDB
+- PostgreSQL
+- Vector Search
+- Database Design
+
+# 🌱 Currently Learning
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Open+to+Opportunities&fontSize=20&fontColor=00d4ff&fontAlignY=65" />
+| 🧠 AI Engineering | 🚀 Software Engineering |
+|------------------|-------------------------|
+| AI Agents | System Design |
+| Multi-Agent Systems | Scalable Backend |
+| Advanced RAG | Distributed Systems |
+| LLM Fine-Tuning | Docker |
+| MCP (Model Context Protocol) | CI/CD |
+| AI Workflows | Cloud Deployment |
 
-*"The expert in anything was once a beginner. Keep shipping."*
+</div>
 
-⭐ **Star my repos if you find them useful — it means a lot!**
+---
+
+# 🎯 2026 Goals
+
+<div align="center">
+
+| Goal | Progress |
+|------|----------|
+| 🤖 Build Production AI Applications | ██████████░░░░░ 70% |
+| 🧠 Master LLM & RAG Systems | █████████░░░░░░ 65% |
+| 🚀 Build AI Agents | ████████░░░░░░░ 60% |
+| 💻 Master MERN Stack | ████████████░░░ 80% |
+| 📚 DSA & Problem Solving | ████████░░░░░░░ 60% |
+| ☁ Cloud Deployment | ██████░░░░░░░░░ 40% |
+
+</div>
+
+---
+
+# 💡 What Drives Me
+
+```text
+Building intelligent software that solves real-world problems.
+
+Interested in:
+
+🧠 Generative AI
+
+🤖 AI Agents
+
+🎙 Voice AI
+
+📚 Retrieval-Augmented Generation
+
+⚡ Backend Engineering
+
+🌐 Full Stack AI Applications
+
+Always learning.
+
+Always building.
+
+Always improving.
+```
+
+---
+
+# 📈 GitHub Contribution
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahuvaibhav07&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🏅 Certifications & Learning
+
+📌 Generative AI
+
+📌 Prompt Engineering
+
+📌 MERN Stack Development
+
+📌 Artificial Intelligence
+
+📌 Data Structures & Algorithms
+
+📌 REST API Development
+
+*(Add certificates here as you earn them.)*
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vaibhav-sahu-5ab88231b">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:sahuvaibhav06@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/sahuvaibhav07">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 💼 Open To
+
+<div align="center">
+
+### 🚀 Looking for opportunities in
+
+🧠 Generative AI Engineer
+
+🤖 AI Engineer
+
+⚡ LLM Application Developer
+
+🏗 AI Agent Developer
+
+🌐 Full Stack AI Engineer
+
+</div>
+
+---
+
+# ⭐ Fun Facts
+
+```python
+class Vaibhav:
+
+    def __init__(self):
+        self.code = True
+        self.learn = True
+        self.build = True
+        self.debug = True
+        self.sleep = False
+
+    def life(self):
+        while True:
+            self.learn()
+            self.build()
+            self.improve()
+
+```
+
+---
+
+<div align="center">
+
+# ⚡ "The future belongs to engineers who can build intelligent systems."
+
+### Thanks for visiting my profile! 👋
+
+⭐ If you like my work, consider following me and starring my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0D1117,50:5B21B6,100:06B6D4"/>
 
 </div>
